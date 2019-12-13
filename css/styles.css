@@ -2,6 +2,11 @@ Body {
     margin: 0;
 }
 
+p {
+color: grey;
+margin-top: 172px;
+}
+
 /*Class*/
 
 
@@ -36,6 +41,9 @@ position: relative;
 }
 
 .header {
+    position: fixed;
+    width: 100%;
+    top: 0;
     background-color: #0b57a3;
     background-image: url("https://raw.githubusercontent.com/OptiPrime64/funsizejustice/master/images/fsj_banner_background.png");
     padding: 10px 0 6px;
