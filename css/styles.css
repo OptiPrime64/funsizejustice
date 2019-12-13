@@ -7,7 +7,6 @@ Body {
 .banner-logo {
 	display: block;
 	margin:0 auto;
-	padding: 30px 0;
 	width:90%; 
 }
 
@@ -15,5 +14,6 @@ Body {
     	
    	background-color: #0b57a3;
 	margin: 0; 
+	padding: 30px 0;
 	text-align: center;
    }
