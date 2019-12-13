@@ -9,6 +9,7 @@ Body {
 position: relative;
 margin: 0 auto;
 max-width: 1014px;
+min-width: 590px;
 top: -10px;
 }
 
