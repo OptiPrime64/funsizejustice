@@ -7,16 +7,16 @@ Body {
 .banner-logo {
     display: block;
     margin: 0 auto 5px;
-    width: 90%;
+    width: 600px;
 }
 
 .header {
-
     background-color: #0b57a3;
     background-image: url("https://raw.githubusercontent.com/OptiPrime64/funsizejustice/master/images/fsj_banner_background.png");
     padding: 10px 0 6px;
     text-align: center;
-    background-size:25%;
+    background-position:center;
+    background-size:200px;}
 }
 
 .bottom-container {
