@@ -27,6 +27,7 @@ Body {
 
 .all-header-links {
     width: 75%;
+    margin: auto;
 }
 
 .header-link {
@@ -35,6 +36,10 @@ Body {
     font-family: sans-serif;
     font-weight: bold;
     margin: 0 25px;
+}
+
+.header-link:hover {
+color: #ed1c24;
 }
 
 .copyright {
