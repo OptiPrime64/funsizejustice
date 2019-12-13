@@ -1,14 +1,17 @@
 Body {
-Margin: 0;
+	margin: 0;
 }
+
 /*Class*/
 
 .banner-logo {
-Width:90%; 
+	display: block;
+	margin:0 auto;
+	width:90%; 
 }
 
 .header {
-    text-align: center;
-    background-color: #0b57a3;
-   
-}
+    	text-align: center;
+   	background-color: #0b57a3;
+	margin: 0; 
+   }
