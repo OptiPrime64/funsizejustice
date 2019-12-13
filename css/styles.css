@@ -1,20 +1,39 @@
 Body {
-	margin: 0;
+    margin: 0;
 }
 
 /*Class*/
 
 .banner-logo {
-	display: block;
-	margin:0 auto;
-	width:90%; 
+    display: block;
+    margin: 0 auto 5px;
+    width: 90%;
 }
 
 .header {
-    	
-   	background-color: #0b57a3;
-	margin: 0; 
-	padding: 10px 0 40px;
-	text-align: center;
-   }
 
+    background-color: #0b57a3;
+    background-image: url("images/fsj_banner_background.png");
+    padding: 10px 0 6px;
+    text-align: center;
+}
+
+.bottom-container {
+    Background-color: #66bfbf;
+    padding: 40px 0 5px;
+    line-height: 3;
+}
+
+.header-link {
+    text-decoration: none;
+    color: white;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin: 0 25px;
+}
+
+.copyright {
+    margin-bottom: 0px;
+    font-size: 12px;
+    color: white;
+}
