@@ -25,6 +25,10 @@ Body {
     line-height: 3;
 }
 
+.all-header-links {
+    width: 75%;
+}
+
 .header-link {
     text-decoration: none;
     color: white;
