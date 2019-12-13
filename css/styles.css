@@ -53,6 +53,7 @@ position: relative;
 .all-header-links {
     width: 75%;
     margin: auto;
+    position: relative;
 }
 
 .header-link {
