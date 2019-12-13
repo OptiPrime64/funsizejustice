@@ -8,21 +8,21 @@ Body {
 .back-head-images {
 position: relative;
 margin: 0 auto;
-max-width: 1014px;
-min-width: 590px;
+max-width: 1199px;
+min-width: 755px;
 top: -10px;
 }
 
 .freedom-falcon {
 display: block;
-height: 138px;
+height: 160px;
 position: absolute;
 
 }
 
 .mighty-pinata {
 display: block;
-height: 138px;
+height: 160px;
 position: absolute;
 top: 0;
 right: 100px;
@@ -32,7 +32,7 @@ right: 100px;
 position: relative;
     display: block;
     margin: 0 auto 5px;
-    width: 600px;
+    width: 738px;
 }
 
 .header {
@@ -53,7 +53,7 @@ position: relative;
 .all-header-links {
     width: 75%;
     margin: auto;
-    position: relative;
+position: relative;
 }
 
 .header-link {
