@@ -71,9 +71,41 @@ position: relative;
 color: #ed1c24;
 }
 
+.comic {
+display: block;
+margin: 175px auto auto;
+}
+
+.bottom {
+
+ background-image: url("https://raw.githubusercontent.com/OptiPrime64/funsizejustice/master/images/fsj_banner_background.png");
+text-align: center;
+padding-top: 18px 0 5px;
+}
+
+.testbutton {
+
+  line-height: 5;
+  text-decoration: none;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: #0b57a3 !important;
+  font-size: 16px;
+  padding: 11px 20px;
+  border-radius: 11px;
+  background: #FFFFFF;
+
+  margin: 30px auto 50px;
+}
+.testbutton:hover {
+  color: #0b57a3 !important;
+  background: #5987c6;
+}
+
 .copyright {
-text-align:center;
-    margin-bottom: 0px;
+margin-top: 18px;
+    
+    margin: auto;
     font-size: 12px;
-    color: grey;
+    color: #FFFFFF;
 }
