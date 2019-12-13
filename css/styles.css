@@ -7,11 +7,13 @@ Body {
 .banner-logo {
 	display: block;
 	margin:0 auto;
+	padding: 30px 0;
 	width:90%; 
 }
 
 .header {
-    	text-align: center;
+    	
    	background-color: #0b57a3;
 	margin: 0; 
+	text-align: center;
    }
