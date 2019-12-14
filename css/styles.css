@@ -7,8 +7,11 @@ color: grey;
 margin-top: 172px;
 }
 
+
+
 /*Class*/
 
+/*Banner*/
 
 .back-head-images {
 position: relative;
@@ -52,7 +55,6 @@ position: relative;
     background-size:200px;}
 }
 
-
 .all-header-links {
     width: 75%;
     margin: auto;
@@ -71,10 +73,39 @@ position: relative;
 color: #ed1c24;
 }
 
+/*Comic Nav*/
+
 .comic {
 display: block;
 margin: 175px auto auto;
 }
+
+.page-scroll {
+text-align: center;
+    font-size: 12px;
+    width: 75%;
+    margin: auto auto 23px;
+   
+}
+
+.page-link {
+    text-decoration: none;
+    color: #0b57a3;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin: 0 4px;
+}
+
+.page-link:hover {
+color: #5987c6;
+}
+
+.dots {
+display: inline;
+color: #c6d6eb;
+}
+
+/*Bottom*/
 
 .bottom {
 
